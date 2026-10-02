@@ -10,10 +10,9 @@
 
 ### ✦ What's this?
 
-### ✦ This is Nothing
+ This is Nothing
 
 
-### ✦
 
 Made by **Hamza**
 Powered by music. Built with GitHub.
