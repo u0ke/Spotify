@@ -10,21 +10,13 @@
 
 ### ✦ What's this?
 
-This repository doesn't contain an app, a framework, or a complicated project.
+#### ✦ This is Nothing 
 
-It's simply a tiny home for my **Spotify link**.
-
-One repository → one link → straight to my music.
-
-### 🔗 Direct
-
-```text
-https://open.spotify.com/user/31l2iebgcbiw4h4g6de44vqalz4u
 ```
 
 ### 🖤
 
-Made by **Hamza**
+Made by **u0ke**
 Powered by music. Built with GitHub.
 
 ---
